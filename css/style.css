@@ -1,0 +1,107 @@
+/* css syntax 
+ sadjf  as sad  
+ */
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+
+/* simo ax.... */
+/* CSS element Selector */
+p{
+  asdaas:asd;
+}
+/* p:elem , pei ,asd , */
+
+/* part 1  */
+.part-1 {
+  display: inline-block;
+  background-color: #f44336;
+  width: 100%;
+  text-align: center;
+  padding: 120px 0px;
+}
+
+.part-1 h1 {
+  font-size: 60px;
+  font-weight: 400;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+.part-1 h5 {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+.part-1 a {
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.part-1 a:hover {
+  background-color: gray;
+  color: black;
+}
+
+/* part 2 */
+.part-2 {
+  width: 100%;
+}
+.part-2-1 {
+  background-color: blue;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* part -2 left side */
+.part-2-2 {
+  padding: 60px 0px;
+  width: 70%;
+  float: left;
+  background-color: white;
+}
+.part-2-2 h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 35px;
+}
+.part-2-2 .p1 {
+  margin: 40px 0px;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+}
+
+.part-2-2 .p2 {
+  font-size: 15px;
+  line-height: 19px;
+  font-weight: 400;
+  color: #757575;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* part -2 right side */
+.part-2-3 {
+  width: 30%;
+  float: right;
+  background-color: white;
+}
+.part-2-3 i {
+  color: #f44336;
+  font-size: 180px;
+  display: inline-block;
+  margin: 140px 60px 0px;
+}
